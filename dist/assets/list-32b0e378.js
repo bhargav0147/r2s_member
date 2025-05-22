@@ -1,0 +1,1 @@
+import{j as r,W as s}from"./index-6b9b4714.js";import{O as i}from"./order-details-view-fabf14ef.js";function d({isOrder:e,isMyOrder:t}){return r.jsxs(r.Fragment,{children:[r.jsx(s,{children:r.jsxs("title",{children:[" ",e?"Order":t?"My Order":"Withdrawal"," | Return 2 Success"]})}),r.jsx(i,{isOrder:e,isMyOrder:t})]})}export{d as default};

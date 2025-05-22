@@ -1,0 +1,1 @@
+import{j as e,W as s,aK as r}from"./index-6b9b4714.js";const t=()=>e.jsxs(e.Fragment,{children:[e.jsx(s,{children:e.jsx("title",{children:"Member | Return 2 Success"})}),e.jsx(r,{isMembership:!0})]});export{t as default};

@@ -1,0 +1,1 @@
+import{j as e}from"./index-6b9b4714.js";function n(){return e.jsx("div",{style:{display:"flex",justifyContent:"center",alignItems:"center"},children:e.jsx("h1",{children:"Order Inovoice ugbgbgbb"})})}export{n as OrderInovoice};

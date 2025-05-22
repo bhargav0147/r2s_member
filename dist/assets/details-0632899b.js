@@ -1,0 +1,1 @@
+import{aO as i,j as s,W as o,bD as n}from"./index-6b9b4714.js";function d({isService:t,isProduct:a}){const e=i(),{id:r}=e;return s.jsxs(s.Fragment,{children:[s.jsx(o,{children:s.jsx("title",{children:" Product: Details"})}),s.jsx(n,{isService:t,isProduct:a,id:`${r}`})]})}export{d as default};
